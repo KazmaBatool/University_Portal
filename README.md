@@ -27,7 +27,6 @@ A responsive and professional **Student Dashboard / Learning Management System (
 - 
 ## Screenshots
 ![Dashboard Screenshot](screenshot.png)  
-*Note: Add your own screenshot in the repo for better presentation.*
 ## How to Use
 
 1. Clone the repository:  
